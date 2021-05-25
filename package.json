@@ -25,7 +25,7 @@
     "map",
     "geodata",
     "preview",
-    "pack"
+    "visualizaion"
   ],
   "extensionPack": [
     "SmartMonkey.geotools",

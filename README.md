@@ -1,4 +1,4 @@
-# VStack
+# GStack
 <p align="center"><img width="200"alt="vstack" src="images/logo.png"/></p>
 
 Gstack offers great extensions for Geology Developer.
@@ -7,7 +7,9 @@ These extensions are language free, fit for everyone curated even you are not de
 
 # Curated List
 
-- [**Extension**]() - Extension Description 
+- [**Geo Tools**]() - Geo Tools and Visualization
+- [**Map Preview**]() - Simple Geo Data Visualization
+- [**Geo Data View**]() - Pretty Geo Data Visualization
 
 
 
