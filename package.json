@@ -1,7 +1,7 @@
 {
   "name": "gstack",
   "displayName": "GStack",
-  "description": "Language Independant VSCode Default Development Stack of Extensions",
+  "description": "Geology VSCode Extension Pack",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.x.x"
@@ -21,7 +21,11 @@
     "Extension Packs"
   ],
   "keywords": [
-    "geology"
+    "geology",
+    "map",
+    "geodata",
+    "preview",
+    "pack"
   ],
   "extensionPack": [
     "SmartMonkey.geotools",
