@@ -2,7 +2,7 @@
   "name": "gstack",
   "displayName": "GStack",
   "description": "Geology VSCode Extension Pack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.x.x"
   },
