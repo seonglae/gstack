@@ -1,5 +1,5 @@
 # GStack
-<p align="center"><img width="200"alt="vstack" src="images/logo.png"/></p>
+<p align="center"><img width="200"alt="gstack" src="images/logo.png"/></p>
 
 Gstack offers great extensions for Geology Developers
 
